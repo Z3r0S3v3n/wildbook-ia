@@ -28,7 +28,7 @@ quantumrandom>=1.9.0
 -e git+https://github.com/tpircher/quine-mccluskey@master#egg=quine-mccluskey
 
 redbaron>=0.6.1
-selenium>=2.53.5
+selenium>=4.15.1
 setproctitle>=1.1.8
 Shapely>=1.5.7
 sympy
