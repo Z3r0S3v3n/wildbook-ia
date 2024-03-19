@@ -5,3 +5,4 @@ pytest
 pytest-cov
 pytest-random-order
 xdoctest
+black>=24.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
