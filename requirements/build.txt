@@ -4,3 +4,4 @@ scikit-build
 setuptools
 setuptools_scm[toml]
 wheel
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
